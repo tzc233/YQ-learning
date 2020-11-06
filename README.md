@@ -20,11 +20,11 @@ learning
 + commit
 + reset
 + tag
-
+#
 + push
 + pull
 + fetch
-
+#
 + branch
 + checkout
 + merge
